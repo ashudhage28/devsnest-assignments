@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+
+}
+
+body{
+    width: max-content;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+fieldset{
+    width: max-content;
+    border-width:thick;
+}
+
+.block{
+    display: inline-block;
+    margin: 10px;
+    padding:3px;
+    
+}
+
+ul{
+    padding:10px;
+}
+
+.left{ border-right: 2px solid black;}
